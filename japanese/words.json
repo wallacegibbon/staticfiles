@@ -5426,7 +5426,7 @@
   "lesson": 16,
   "idx": 708
 }, {
-  "tone": 2,
+  "tone": 0,
   "kana": "%E3%81%AC%E3%81%AE",
   "kanzi": "%E5%B8%83",
   "type": "%E5%90%8D",
@@ -5434,7 +5434,7 @@
   "lesson": 16,
   "idx": 709
 }, {
-  "tone": 4,
+  "tone": 0,
   "kana": "%E3%81%99%E3%81%84%E3%81%A8%E3%81%86",
   "kanzi": "%E6%B0%B4%E7%AD%92",
   "type": "%E5%90%8D",
@@ -5474,7 +5474,7 @@
   "lesson": 16,
   "idx": 714
 }, {
-  "tone": 2,
+  "tone": 0,
   "kana": "%E3%81%AF%E3%81%AA",
   "kanzi": "%E9%BC%BB",
   "type": "%E5%90%8D",
@@ -5482,7 +5482,7 @@
   "lesson": 16,
   "idx": 715
 }, {
-  "tone": 2,
+  "tone": 0,
   "kana": "%E3%81%8B%E3%81%8A",
   "kanzi": "%E9%A1%94",
   "type": "%E5%90%8D",
@@ -5490,7 +5490,7 @@
   "lesson": 16,
   "idx": 716
 }, {
-  "tone": 0,
+  "tone": 3,
   "kana": "%E3%81%82%E3%81%9F%E3%81%BE",
   "kanzi": "%E9%A0%AD",
   "type": "%E5%90%8D",
@@ -5500,7 +5500,7 @@
 }, {
   "tone": 5,
   "kana": "%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89",
-  "kanzi": "%EF%BC%A9%EF%BC%B4%EF%BD%9E",
+  "kanzi": "%EF%BC%A9%EF%BC%A4%EF%BD%9E",
   "type": "%E5%90%8D",
   "meaning": "%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BB%B6",
   "lesson": 16,
@@ -5585,7 +5585,8 @@
   "idx": 728
 }, {
   "tone": 7,
-  "kana": "%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E4%BA%BA",
+  "kana": "%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%98%E3%82%93",
+  "kanzi": "%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E4%BA%BA",
   "type": "%E5%90%8D",
   "meaning": "%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%BA%BA",
   "lesson": 16,
@@ -5606,7 +5607,7 @@
   "lesson": 16,
   "idx": 731
 }, {
-  "tone": 2,
+  "tone": 0,
   "kana": "%E3%82%88%E3%81%93",
   "kanzi": "%E6%A8%AA",
   "type": "%E5%90%8D",
@@ -5761,7 +5762,7 @@
   "kana": "%E3%81%AF%E3%81%A7",
   "kanzi": "%E6%B4%BE%E6%89%8B",
   "type": "%E5%BD%A22",
-  "meaning": "%E8%80%80%E7%9C%BC%EF%BC%8C%E7%B9%81%E5%8D%8E",
+  "meaning": "%E8%80%80%E7%9C%BC%EF%BC%8C%E8%8A%B1%E5%93%A8",
   "lesson": 16,
   "idx": 751
 }, {
@@ -5924,7 +5925,7 @@
   "idx": 772
 }, {
   "tone": 1,
-  "kana": "%E3%83%89%E3%83%A9%E3%83%A0",
+  "kana": "%E3%83%89%E3%83%A9%E3%83%9E",
   "type": "%E5%90%8D",
   "meaning": "%E8%BF%9E%E7%BB%AD%E5%89%A7",
   "lesson": 17,
@@ -6010,7 +6011,7 @@
   "lesson": 17,
   "idx": 783
 }, {
-  "tone": 3,
+  "tone": 0,
   "kana": "%E3%82%8A%E3%81%A3%E3%81%B1",
   "kanzi": "%E7%AB%8B%E6%B4%BE",
   "type": "%E5%BD%A22",
@@ -6089,4 +6090,300 @@
   "meaning": "%E7%91%9E%E5%A3%AB",
   "lesson": 17,
   "idx": 794
+}, {
+  "tone": 2,
+  "kana": "%E3%81%8A%E3%81%A8",
+  "kanzi": "%E9%9F%B3",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%A3%B0%E9%9F%B3%EF%BC%8C%E5%93%8D%E5%A3%B0",
+  "lesson": 18,
+  "idx": 795
+}, {
+  "tone": 1,
+  "kana": "%E3%81%93%E3%81%88",
+  "kanzi": "%E5%A3%B0",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%A3%B0%E9%9F%B3",
+  "lesson": 18,
+  "idx": 796
+}, {
+  "tone": 1,
+  "kana": "%E3%81%8F%E3%81%86%E3%81%8D",
+  "kanzi": "%E7%A9%BA%E6%B0%97",
+  "type": "%E5%90%8D",
+  "meaning": "%E7%A9%BA%E6%B0%94",
+  "lesson": 18,
+  "idx": 797
+}, {
+  "tone": 0,
+  "kana": "%E3%82%80%E3%81%99%E3%81%93",
+  "kanzi": "%E6%81%AF%E5%AD%90",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%84%BF%E5%AD%90",
+  "lesson": 18,
+  "idx": 798
+}, {
+  "tone": 0,
+  "kana": "%E3%81%84%E3%81%97%E3%82%83",
+  "kanzi": "%E5%8C%BB%E8%80%85",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%8C%BB%E7%94%9F",
+  "lesson": 18,
+  "idx": 799
+}, {
+  "tone": 2,
+  "kana": "%E3%81%8A%E3%81%98%E3%82%87%E3%81%86%E3%81%95%E3%82%93",
+  "kanzi": "%E3%81%8A%E5%AC%A2%E3%81%95%E3%82%93",
+  "type": "%E5%90%8D",
+  "meaning": "%E4%BB%A4%E7%88%B1",
+  "lesson": 18,
+  "idx": 800
+}, {
+  "tone": 2,
+  "kana": "%E3%81%97%E3%82%83%E3%81%8B%E3%81%84%E3%81%98%E3%82%93",
+  "kanzi": "%E7%A4%BE%E4%BC%9A%E4%BA%BA",
+  "type": "%E5%90%8D",
+  "meaning": "%E7%A4%BE%E4%BC%9A%E7%9A%84%E4%B8%80%E5%91%98%EF%BC%8C%E6%88%90%E4%BA%BA",
+  "lesson": 18,
+  "idx": 801
+}, {
+  "tone": 4,
+  "kana": "%E3%82%8A%E3%82%87%E3%81%93%E3%81%86%E3%82%AC%E3%82%A4%E3%83%89",
+  "kanzi": "%E6%97%85%E8%A1%8C%E3%82%AC%E3%82%A4%E3%83%89",
+  "type": "%E5%90%8D",
+  "meaning": "%E6%97%85%E8%A1%8C%E5%AF%BC%E6%B8%B8",
+  "lesson": 18,
+  "idx": 802
+}, {
+  "tone": 0,
+  "kana": "%E3%81%8C%E3%81%8F%E3%81%97%E3%82%83",
+  "kanzi": "%E5%AD%A6%E8%80%85",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%AD%A6%E8%80%85",
+  "lesson": 18,
+  "idx": 803
+}, {
+  "tone": 1,
+  "kana": "%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88",
+  "type": "%E5%90%8D",
+  "meaning": "%E9%A3%9E%E8%A1%8C%E5%91%98",
+  "lesson": 18,
+  "idx": 804
+}, {
+  "tone": 2,
+  "kana": "%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC",
+  "type": "%E5%90%8D",
+  "meaning": "%E8%AE%BE%E8%AE%A1%E8%80%85%EF%BC%8C%E8%AE%BE%E8%AE%A1%E5%AE%B6",
+  "lesson": 18,
+  "idx": 805
+}, {
+  "tone": 4,
+  "kana": "%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+  "type": "%E5%90%8D",
+  "meaning": "%E6%97%B6%E6%AE%B5%E5%BB%89%E4%BB%B7%E9%94%80%E5%94%AE",
+  "lesson": 18,
+  "idx": 806
+}, {
+  "tone": 5,
+  "kana": "%E3%81%97%E3%82%93%E3%81%97%E3%82%85%E3%82%93%E3%82%BB%E3%83%BC%E3%83%AB",
+  "kanzi": "%E6%96%B0%E6%98%A5%EF%BD%9E",
+  "type": "%E5%90%8D",
+  "meaning": "%E6%96%B0%E5%B9%B4%E5%A4%A7%E7%94%A9%E5%8D%96",
+  "lesson": 18,
+  "idx": 807
+}, {
+  "tone": 3,
+  "kana": "%E3%81%95%E3%82%93%E3%82%8F%E3%82%8A%E3%81%B3%E3%81%8D",
+  "kanzi": "%E4%B8%89%E5%89%B2%E5%BC%95",
+  "type": "%E5%90%8D",
+  "meaning": "%E4%B8%83%E6%8A%98",
+  "lesson": 18,
+  "idx": 808
+}, {
+  "tone": 0,
+  "kana": "%E3%81%A6%E3%81%84%E3%81%8B",
+  "kanzi": "%E5%AE%9A%E4%BE%A1",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%AE%9A%E4%BB%B7",
+  "lesson": 18,
+  "idx": 809
+}, {
+  "tone": 0,
+  "kana": "%E3%81%AF%E3%82%93%E3%81%8C%E3%81%8F",
+  "kanzi": "%E5%8D%8A%E9%A1%8D",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%8D%8A%E4%BB%B7",
+  "lesson": 18,
+  "idx": 810
+}, {
+  "tone": 0,
+  "kana": "%E3%81%AD%E3%81%A0%E3%82%93",
+  "kanzi": "%E5%80%A4%E6%AE%B5",
+  "type": "%E5%90%8D",
+  "meaning": "%E4%BB%B7%E6%A0%BC",
+  "lesson": 18,
+  "idx": 811
+}, {
+  "tone": 1,
+  "kana": "%E3%82%B7%E3%83%A3%E3%83%84",
+  "type": "%E5%90%8D",
+  "meaning": "%E8%A1%AC%E8%A1%AB",
+  "lesson": 18,
+  "idx": 812
+}, {
+  "tone": 2,
+  "kana": "%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88",
+  "type": "%E5%90%8D",
+  "meaning": "%E8%A3%99%E5%AD%90",
+  "lesson": 18,
+  "idx": 813
+}, {
+  "tone": 2,
+  "kana": "%E3%81%84%E3%82%8D",
+  "kanzi": "%E8%89%B2",
+  "type": "%E5%90%8D",
+  "meaning": "%E9%A2%9C%E8%89%B2",
+  "lesson": 18,
+  "idx": 814
+}, {
+  "tone": 1,
+  "kana": "%E3%81%82%E3%81%8B",
+  "kanzi": "%E8%B5%A4",
+  "type": "%E5%90%8D",
+  "meaning": "%E7%BA%A2%E8%89%B2",
+  "lesson": 18,
+  "idx": 815
+}, {
+  "tone": 1,
+  "kana": "%E3%81%82%E3%81%8A",
+  "kanzi": "%E9%9D%92",
+  "type": "%E5%90%8D",
+  "meaning": "%E8%93%9D%E8%89%B2",
+  "lesson": 18,
+  "idx": 816
+}, {
+  "tone": 5,
+  "kana": "%E3%81%8A%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E3%81%A4",
+  "kanzi": "%E3%81%8A%E6%AD%A3%E6%9C%88",
+  "type": "%E5%90%8D",
+  "meaning": "%E8%BF%87%E5%B9%B4%EF%BC%8C%E6%96%B0%E5%B9%B4",
+  "lesson": 18,
+  "idx": 817
+}, {
+  "tone": 0,
+  "kana": "%E3%81%98%E3%81%8B%E3%82%93",
+  "kanzi": "%E6%99%82%E9%96%93",
+  "type": "%E5%90%8D",
+  "meaning": "%E6%97%B6%E9%97%B4",
+  "lesson": 18,
+  "idx": 818
+}, {
+  "tone": 1,
+  "kana": "%E3%81%97%E3%82%87%E3%81%86%E3%82%89%E3%81%84",
+  "kanzi": "%E5%B0%86%E6%9D%A5",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%B0%86%E6%9D%A5",
+  "lesson": 18,
+  "idx": 819
+}, {
+  "tone": 1,
+  "kana": "%E3%81%98%E3%82%85%E3%82%93%E3%81%B3",
+  "kanzi": "%E6%BA%96%E5%82%99",
+  "type": "%E5%90%8D",
+  "meaning": "%E5%87%86%E5%A4%87",
+  "lesson": 18,
+  "idx": 820
+}, {
+  "tone": 0,
+  "kana": "%E3%81%B3%E3%82%87%E3%81%86%E3%81%8D",
+  "kanzi": "%E7%97%85%E6%B0%97",
+  "type": "%E5%90%8D",
+  "meaning": "%E7%96%BE%E7%97%85",
+  "lesson": 18,
+  "idx": 821
+}, {
+  "tone": 3,
+  "kana": "%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99",
+  "type": "%E5%8A%A81",
+  "meaning": "%E5%8F%98%EF%BC%8C%E5%BD%93%EF%BC%8C%E5%8F%98%E6%88%90%EF%BC%8C%E6%88%90%E4%B8%BA",
+  "lesson": 18,
+  "idx": 822
+}, {
+  "tone": 3,
+  "kana": "%E3%81%82%E3%81%8D%E3%81%BE%E3%81%99",
+  "kanzi": "%E9%96%8B%E3%81%8D%E3%81%BE%E3%81%99",
+  "type": "%E5%8A%A81",
+  "meaning": "%E5%BC%80",
+  "lesson": 18,
+  "idx": 823
+}, {
+  "tone": 4,
+  "kana": "%E3%81%AB%E3%81%82%E3%81%84%E3%81%BE%E3%81%99",
+  "kanzi": "%E4%BC%BC%E5%90%88%E3%81%84%E3%81%BE%E3%81%99",
+  "type": "%E5%8A%A81",
+  "meaning": "%E9%80%82%E5%90%88%EF%BC%8C%E7%9B%B8%E7%A7%B0",
+  "lesson": 18,
+  "idx": 824
+}, {
+  "tone": 3,
+  "kana": "%E3%81%86%E3%82%8B%E3%81%95%E3%81%84",
+  "type": "%E5%BD%A21",
+  "meaning": "%E9%97%B9%EF%BC%8C%E4%BD%BF%E4%BA%BA%E5%BF%83%E7%83%A6",
+  "lesson": 18,
+  "idx": 825
+}, {
+  "tone": 1,
+  "kana": "%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB",
+  "type": "%E5%BD%A22",
+  "meaning": "%E5%8D%95%E7%BA%AF%EF%BC%8C%E7%AE%80%E6%B4%81",
+  "lesson": 18,
+  "idx": 826
+}, {
+  "tone": 2,
+  "kana": "%E3%81%BE%E3%82%82%E3%81%AA%E3%81%8F",
+  "kanzi": "%E9%96%93%E3%82%82%E3%81%AA%E3%81%8F",
+  "type": "%E5%89%AF",
+  "meaning": "%E9%A9%AC%E4%B8%8A%EF%BC%8C%E4%B8%80%E4%BC%9A%E5%84%BF%EF%BC%8C%E4%B8%8D%E4%B9%85",
+  "lesson": 18,
+  "idx": 827
+}, {
+  "tone": 3,
+  "kana": "%E3%82%82%E3%81%86%E3%81%99%E3%81%90",
+  "type": "%E5%89%AF",
+  "meaning": "%E9%A9%AC%E4%B8%8A",
+  "lesson": 18,
+  "idx": 828
+}, {
+  "tone": 1,
+  "kana": "%E3%81%95%E3%82%89%E3%81%AB/%E3%82%82%E3%81%A3%E3%81%A8",
+  "type": "%E5%89%AF",
+  "meaning": "%E6%9B%B4%E5%8A%A0%EF%BC%8C%E6%9B%B4",
+  "lesson": 18,
+  "idx": 829
+}, {
+  "tone": 1,
+  "kana": "%E3%81%95%E3%81%82",
+  "type": "%E5%8F%B9",
+  "meaning": "%E5%95%8A%EF%BC%8C%E5%96%82",
+  "lesson": 18,
+  "idx": 830
+}, {
+  "tone": 0,
+  "kana": "%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%A0%E3%81%91",
+  "meaning": "%E5%B0%BD%E9%87%8F%EF%BC%8C%E5%B0%BD%E5%8F%AF%E8%83%BD",
+  "lesson": 18,
+  "idx": 831
+}, {
+  "tone": 0,
+  "kana": "%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6",
+  "meaning": "%E4%B8%80%E4%B8%8B%E5%AD%90%EF%BC%8C%E4%B8%80%E8%B5%B7%EF%BC%8C%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86",
+  "lesson": 18,
+  "idx": 832
+}, {
+  "tone": 1,
+  "kana": "%E3%81%84%E3%81%BE%E3%81%8B%E3%82%89",
+  "kanzi": "%E4%BB%8A%E3%81%8B%E3%82%89",
+  "meaning": "%E4%BB%8E%E7%8E%B0%E5%9C%A8%E8%B5%B7",
+  "lesson": 18,
+  "idx": 833
 }]
