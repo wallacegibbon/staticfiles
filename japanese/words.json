@@ -5500,7 +5500,7 @@
 }, {
   "tone": 5,
   "kana": "%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89",
-  "kanzi": "%EF%BC%A9%EF%BC%A4%EF%BD%9E",
+  "kanzi": "%EF%BC%A9%EF%BC%A4%E3%82%AB%E3%83%BC%E3%83%89",
   "type": "%E5%90%8D",
   "meaning": "%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BB%B6",
   "lesson": 16,
@@ -6186,7 +6186,7 @@
 }, {
   "tone": 5,
   "kana": "%E3%81%97%E3%82%93%E3%81%97%E3%82%85%E3%82%93%E3%82%BB%E3%83%BC%E3%83%AB",
-  "kanzi": "%E6%96%B0%E6%98%A5%EF%BD%9E",
+  "kanzi": "%E6%96%B0%E6%98%A5%E3%82%BB%E3%83%BC%E3%83%AB",
   "type": "%E5%90%8D",
   "meaning": "%E6%96%B0%E5%B9%B4%E5%A4%A7%E7%94%A9%E5%8D%96",
   "lesson": 18,
